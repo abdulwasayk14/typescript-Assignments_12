@@ -1,1 +1,1 @@
-# typescript-Assignments_12
+# typescript-Assignments_12_Greetings
